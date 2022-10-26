@@ -19,8 +19,8 @@ iOS 앱 개발자가 꿈입니다. <img src="https://img.shields.io/badge/Apple-
  🛠 Tech Stacks 🛠
  
  
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-3776AB?style=flat-square&logo=SwiftUI&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/SwiftUI-3776AB?style=flat-square&logo=SwiftUI&logoColor=white"/><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=flat-square&logo=Insomnia&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
 
 <br/><br/>
 
@@ -30,7 +30,7 @@ iOS 앱 개발자가 꿈입니다. <img src="https://img.shields.io/badge/Apple-
   
 <br/><br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-YeoJin&layout=compact)](https://github.com/Yun-YeoJin/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yun-YeoJin&layout=compact)](https://github.com/Yun-YeoJin/github-readme-stats)-->
   
 <br/><br/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yun-YeoJin&show_icons=true&theme=nightowl)
